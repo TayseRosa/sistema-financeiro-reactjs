@@ -10,7 +10,7 @@
 
 # Demo
 <p align="center">
-<img src="./readme.gif" align="center" />
+<img src="./readme/readme.gif" align="center" />
 </p>
 
 ---
@@ -31,10 +31,10 @@
 ```js
 
     //Clonar o repositório
-    $ git clone https://github.com/TayseRosa/Sistema-de-Finan-as-Pessoais---React-e-Typescript.git
+    $ git clone https://github.com/TayseRosa/sistema-financeiro-reactjs.git
 
     //Entrar no diretório
-    $ cd Sistema-de-Finan-as-Pessoais---React-e-Typescript
+    $ cd sistema-financeiro-reactjs
 
     //Instalar bilbiotecas
     $ npm install
